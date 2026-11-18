@@ -1,0 +1,3 @@
+interface:
+  display_name: "代码审查与讲解"
+  short_description: "独立复核 PR 缺陷、按三轮规则跟进修复，并依据源码解释业务行为"
